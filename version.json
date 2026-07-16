@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.1",
-  "download_url": "https://github.com/YaroCore/cs2-translation-assistant-releases/releases/download/v1.1.1/CS2TranslationAssistant-Setup-1.1.1.exe",
-  "sha256": "1c9fc7155c36a647b6038fda0dfe207b5725dd0aaf12eeaa48ac627badd37851",
-  "changelog": "Добавлена секция \"Поддержать проект (СБП)\" с QR-кодом для доната в панели управления."
+  "latest_version": "1.1.2",
+  "download_url": "https://github.com/YaroCore/cs2-translation-assistant-releases/releases/download/v1.1.2/CS2TranslationAssistant-Setup-1.1.2.exe",
+  "sha256": "f034f1227b652ee193b04d94de821e533c1651d4f44b8e06671917bbdf39e675",
+  "changelog": "Собственная иконка приложения, компактный заголовок с версией, приглушённый цвет плейсхолдера звука, больше воздуха и разделители между блоками интерфейса."
 }
