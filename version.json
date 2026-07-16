@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.0",
-  "download_url": "https://github.com/YaroCore/cs2-translation-assistant-releases/releases/download/v1.0.0/CS2TranslationAssistant-Setup-1.0.0.exe",
-  "sha256": "fe9e8b1058922876b36600de59034454f8b0196e927ed481ba3b3f5c727e9822",
-  "changelog": "First release."
+  "latest_version": "1.1.0",
+  "download_url": "https://github.com/YaroCore/cs2-translation-assistant-releases/releases/download/v1.1.0/CS2TranslationAssistant-Setup-1.1.0.exe",
+  "sha256": "3a5256bcd0e5e860200810edfd597b2aa3f0b5a274861f2964f4f35de07c9a9b",
+  "changelog": "Два хоткея (команда/все), интеграция с GSI, автообновление, детект FACEIT, разбиение длинных сообщений, звук уведомлений, панель управления."
 }
