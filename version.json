@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.2",
-  "download_url": "https://github.com/YaroCore/cs2-translation-assistant-releases/releases/download/v1.1.2/CS2TranslationAssistant-Setup-1.1.2.exe",
-  "sha256": "f034f1227b652ee193b04d94de821e533c1651d4f44b8e06671917bbdf39e675",
-  "changelog": "Собственная иконка приложения, компактный заголовок с версией, приглушённый цвет плейсхолдера звука, больше воздуха и разделители между блоками интерфейса."
+  "latest_version": "1.1.3",
+  "download_url": "https://github.com/YaroCore/cs2-translation-assistant-releases/releases/download/v1.1.3/CS2TranslationAssistant-Setup-1.1.3.exe",
+  "sha256": "FC7A90D6280B46C3EF7431D6E8C8597EB6025ACC7201E8EF1C5E30F6814B6D9C",
+  "changelog": "Исправлен QR-код доната (недостаточные белые поля мешали сканированию телефоном)."
 }
